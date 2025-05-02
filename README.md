@@ -1,4 +1,4 @@
-# scribble
+# SketchRush
 
 A new Flutter project.
 
